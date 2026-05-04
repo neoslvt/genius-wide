@@ -1,10 +1,12 @@
-# Getting Started With Google Chrome Extensions (Hello World)
+# Genius Wide
+A lightweight browser extension designed to optimize the Genius.com reading experience. This extension expands the lyrics container by removing distracting side elements like "You might also like" and Ticket modules, making it perfect for use in narrow or tiled browser windows.
 
-This example demonstrates how to create a simple "Hello World" Chrome Extension.
-For more details, visit the [official tutorial](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world).
+## Features
+Expanded Layout: Removes the fixed-width constraints on lyrics for a wider view.
 
-## Running This Extension
+Decluttered Interface: Automatically hides "You might also like" and Ticket purchase boxes.
 
-1. Clone this repository.
-2. Load this directory in Chrome as an [unpacked extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked).
-3. Click the extension icon in the Chrome toolbar, then select the "Hello Extensions" extension. A popup will appear displaying the text "Hello Extensions".
+Productivity Focused: Ideal for users who keep lyrics open in a split-screen or tight window layout.
+
+## Disclaimer
+P.S. This extension is an independent project and is not an official creation of, or affiliated with, genius.com.
